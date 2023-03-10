@@ -1,0 +1,8 @@
+.GameContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  max-width: 832px;
+  margin: 12px auto;
+  margin-top: 64px;
+}

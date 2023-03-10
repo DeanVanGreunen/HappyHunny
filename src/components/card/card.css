@@ -1,0 +1,39 @@
+.card {
+  position: relative;
+  display: inline;
+  background-color: #ffd343;
+  width: 157px;
+  height: 240px;
+  cursor: pointer;
+  margin: 4px;
+  border-radius: 12px;
+  outline: rgb(255 255 255) solid 4px;
+  outline-offset: -3.9px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 157px 240px;
+}
+
+.inner1 {
+  display: inline-block;
+  position: relative;
+  content: "";
+  background-color: #fff;
+  width: 116px;
+  height: 190px;
+  border-radius: 12px;
+  top: 22px;
+  left: 21px;
+}
+
+.inner2 {
+  display: inline-block;
+  position: relative;
+  content: "";
+  background-color: #ffd343;
+  width: 112px;
+  height: 186px;
+  border-radius: 12px;
+  top: 2px;
+  left: 2px;
+}
